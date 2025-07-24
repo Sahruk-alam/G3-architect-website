@@ -157,7 +157,6 @@ main>section {
 #still{
     border-left: 5px solid #FF900E ;
     padding: 21px;
-   
 }
 .dark-3{
     color: #727272;
@@ -170,7 +169,6 @@ main>section {
     font-size: 1rem;
 }
 .love-card{
-    /* border: 1px solid black; */
     padding: 20px;
     box-shadow:0 4px 4px 0 rgba(0, 0, 0, 0.25);
     border-radius: 8px;
@@ -179,13 +177,11 @@ main>section {
 }
 .love{
     gap:100px;
-    margin-top: 110px;
-    
+    margin-top: 110px; 
 }
-  .love-img img{
+  .love-image img{
     width: 100%;
-}
-
+  }
 #badge{
     padding: 35px 40px;
     font-weight: 500;
@@ -201,8 +197,7 @@ main>section {
     max-width: 1440px;
     background-color:#f2dabd ;
     border-radius: 8px;
-   margin: 120px auto;
-    
+   margin: 120px auto;  
 }
 .footer{
 padding: 39px; 
@@ -236,13 +231,9 @@ font-weight: 400;
         gap: 37px;
         justify-items: center;
     }
-  
 #badge{
     margin-top: 20px;
     margin-left: 20px;
-}
- .love-img img{
-    width: 100%;
 }
 .foot{
    padding-left:16px;
